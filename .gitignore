@@ -42,3 +42,6 @@ src
 config
 
 testcache/*
+
+# environment vars
+.env
